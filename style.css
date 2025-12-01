@@ -1,0 +1,37 @@
+h1 { 
+    color: #48D1CC;
+    text-align: center;
+}
+
+h2 {
+    color: #B0E0E6;
+    text-align: center;
+}
+
+p.note {
+    border: thin gray solid;
+    margin: 1.5em 3em;
+    padding: 0.5em;
+    background-color: #FFFF99
+}
+
+th {
+    color: #98FB98;
+    background-color:  #A9A9A9;
+}
+
+a:link {
+    color: blue /*未訪問のリンクは青で*/
+}
+
+a:visited {
+    color: purple /*訪問済みのリンクは紫で*/
+}
+
+a:active {
+    color: aqua /*選択中のリンクは水色で*/
+}
+
+a:hover {
+    color: pink /*マウスが上に来ているリンクはピンクで*/
+}
