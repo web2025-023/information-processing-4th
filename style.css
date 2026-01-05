@@ -113,3 +113,8 @@ em {
   font-style: italic;
   margin-top: 8px;
 }
+
+fixed-size {
+width: 200px;
+height: 100px;
+}
