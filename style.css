@@ -100,8 +100,8 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+  max-width: 20%;
+  height: 30%;
   margin: 15px 0;
   border-radius: 5px;
 }
@@ -112,9 +112,4 @@ em {
   color: #666;
   font-style: italic;
   margin-top: 8px;
-}
-
-fixed-size {
-width: 200px;
-height: 100px;
 }
